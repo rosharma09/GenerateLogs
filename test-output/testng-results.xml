@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27465" started-at="2020-01-14T11:12:33Z" finished-at="2020-01-14T11:13:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27465" started-at="2020-01-14T11:12:33Z" finished-at="2020-01-14T11:13:00Z">
+      <class name="com.qa.testClasses.LoginPageTestClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testClasses.LoginPageTestClass@61832929]" name="setup" is-config="true" duration-ms="16119" started-at="2020-01-14T16:42:33Z" finished-at="2020-01-14T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logoDisplayed()[pri:0, instance:com.qa.testClasses.LoginPageTestClass@61832929]" name="logoDisplayed" duration-ms="351" started-at="2020-01-14T16:42:49Z" finished-at="2020-01-14T16:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoDisplayed -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testClasses.LoginPageTestClass@61832929]" name="tearDown" is-config="true" duration-ms="1268" started-at="2020-01-14T16:42:49Z" finished-at="2020-01-14T16:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.testClasses.LoginPageTestClass@61832929]" name="setup" is-config="true" duration-ms="8153" started-at="2020-01-14T16:42:51Z" finished-at="2020-01-14T16:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.qa.testClasses.LoginPageTestClass@61832929]" name="verifyTitle" duration-ms="11" started-at="2020-01-14T16:42:59Z" finished-at="2020-01-14T16:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testClasses.LoginPageTestClass@61832929]" name="tearDown" is-config="true" duration-ms="1520" started-at="2020-01-14T16:42:59Z" finished-at="2020-01-14T16:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testClasses.LoginPageTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
